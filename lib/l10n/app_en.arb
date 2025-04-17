@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "title": "Daily Planner",
+  "kazakh": "Kazakh",
+  "english": "English",
+  "language": "Language",
+  "taskDeleted": "Task deleted",
+  "todayTasks": "Today's Tasks",
+  "editTask": "Edit task",
+  "enterTask": "Enter task",
+  "save": "Save",
+  "settings": "Settings",
+  "lightMode": "Light mode",
+  "darkMode": "Dark mode",
+  "tapToEdit": "Tap to edit"
+}
